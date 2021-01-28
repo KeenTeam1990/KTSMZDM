@@ -3,7 +3,7 @@
 
 ## 截图
 
-![pic1](pic1.png)
+![image](pic1.png)
 
 
 
