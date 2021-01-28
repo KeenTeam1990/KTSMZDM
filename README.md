@@ -4,6 +4,7 @@
 ## 截图
 
 ![image](pic1.png)
+<img src="pic1.png" width="375">
 
 
 
