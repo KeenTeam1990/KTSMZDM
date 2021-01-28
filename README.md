@@ -3,7 +3,7 @@
 
 ## 截图
 
-<img src="/pic1.png" width="375">
+<img src="KTSMZDM/pic1.png" width="375">
 
 
 ## 简要说明
